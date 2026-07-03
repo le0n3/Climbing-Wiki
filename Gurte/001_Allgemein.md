@@ -73,7 +73,7 @@ Die Lebensdauer eines Gurts hängt von Nutzungshäufigkeit, Pflege und Lagerung 
 **Ausrangiergründe (immer visuell prüfen):**
 - Einschnürungen, Einschnitte oder Scheuerstellen am Hüftband oder Beinschlaufen
 - Verfärbungen (UV-Schäden, chemische Einflüsse)
-- Risse oder Abrieb an der [[002 Sicherungsschlaufe]]
+- Risse oder Abrieb an der [[Gurte/002_Sicherungsschlaufe|002 Sicherungsschlaufe]]
 - Verblichene oder unleserliche Etiketten (Herstellungsdatum nicht mehr erkennbar)
 - Nach Kontakt mit Säuren, Laugen oder Lösungsmitteln: sofort ersetzen
 
