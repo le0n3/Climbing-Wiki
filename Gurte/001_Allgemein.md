@@ -81,7 +81,7 @@ Die Lebensdauer eines Gurts hängt von Nutzungshäufigkeit, Pflege und Lagerung 
 
 ## Weiterführende Themen in diesem Wiki
 
-- [[002 Sicherungsschlaufe]] – Funktion, Aufbau und kritische Sicherheitsaspekte der Sicherungsschlaufe
-- [[003 Einbindeschlaufen]] – Korrekte Einbindung des Seils und Belastungswerte
-- [[004 Materialschlaufen]] – Tragkapazität und korrekte Verwendung der Materialschlaufen
-- [[005 Haul Loop]] – Der rückwärtige Zusatzloop für Big-Wall und Alpinklettern
+- [[Gurte/002_Sicherungsschlaufe|002 Sicherungsschlaufe]] – Funktion, Aufbau und kritische Sicherheitsaspekte der Sicherungsschlaufe
+- [[Gurte/003_Einbindeschlaufen|003 Einbindeschlaufen]] – Korrekte Einbindung des Seils und Belastungswerte
+- [[Gurte/004_Materialschlaufen|004 Materialschlaufen]] – Tragkapazität und korrekte Verwendung der Materialschlaufen
+- [[Gurte/005_Haul_Loop|005 Haul Loop]] – Der rückwärtige Zusatzloop für Big-Wall und Alpinklettern
