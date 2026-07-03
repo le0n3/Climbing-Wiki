@@ -39,9 +39,9 @@ Der Haul Loop ist **nicht für die Sicherungskette zugelassen**. Typische Herste
 | Petzl | Nicht spezifiziert für Sicherungseinsatz |
 | Edelrid | ~5–10 kN je nach Modell |
 
-Zum Vergleich: Die [[002 Sicherungsschlaufe]] muss nach EN 12277 mindestens **15 kN** halten. Der Haul Loop erfüllt diese Anforderung in der Regel nicht und ist daher **nicht als Standpunkt- oder Sicherungsschlaufe** geeignet.
+Zum Vergleich: Die [[Gurte/002_Sicherungsschlaufe|002 Sicherungsschlaufe]] muss nach EN 12277 mindestens **15 kN** halten. Der Haul Loop erfüllt diese Anforderung in der Regel nicht und ist daher **nicht als Standpunkt- oder Sicherungsschlaufe** geeignet.
 
-> ⚠️ **Sicherheitshinweis:** Trotz teils robuster Konstruktion darf der Haul Loop **niemals** als Sicherungsschlaufe, Standpunkt oder Einbindepunkt verwendet werden. Weder das Einhängen eines Sicherungsgeräts noch das Klippen des Seils ist erlaubt. Einige Kletterer verwechseln ihn mit der [[002 Sicherungsschlaufe]], da er ähnlich aussehen kann – besonders bei Gurten, die den Haul Loop mittig-rückseitig über das Hüftband führen.
+> ⚠️ **Sicherheitshinweis:** Trotz teils robuster Konstruktion darf der Haul Loop **niemals** als Sicherungsschlaufe, Standpunkt oder Einbindepunkt verwendet werden. Weder das Einhängen eines Sicherungsgeräts noch das Klippen des Seils ist erlaubt. Einige Kletterer verwechseln ihn mit der [[Gurte/002_Sicherungsschlaufe|002 Sicherungsschlaufe]], da er ähnlich aussehen kann – besonders bei Gurten, die den Haul Loop mittig-rückseitig über das Hüftband führen.
 
 ## Typische Verwendungsszenarien
 
