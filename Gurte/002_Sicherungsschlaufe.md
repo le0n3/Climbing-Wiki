@@ -70,7 +70,7 @@ Die Sicherungsschlaufe muss vor **jeder Klettereinheit** geprüft werden. Kontro
 
 Eine der gefährlichsten Verwechslungen im Klettern:
 
-| Merkmal | Sicherungsschlaufe | [[003 Einbindeschlaufen]] |
+| Merkmal | Sicherungsschlaufe | [[Gurte/003_Einbindeschlaufen|003 Einbindeschlaufen]] |
 |---------|-------------------|--------------------------|
 | Position | Mittig, vorne, oval | Links und rechts der Schlaufe, als Stege |
 | Verwendung | Karabiner + Sicherungsgerät | Seileinbindung (Knoten) |
