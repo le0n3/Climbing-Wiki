@@ -19,7 +19,7 @@ Diese Dreipunktverteilung – Hüfte links, Hüfte rechts, Bein links, Bein rech
 
 ## Korrekte Einbindung – Schritt für Schritt
 
-1. **Knoten wählen:** Der Standardknoten ist der **[doppelte Achterknoten (Achter auf Bight, nachgelegt)](https://de.wikipedia.org/wiki/Achterknoten#Doppelter_Achtknoten)** – er ist symmetrisch, gut kontrollierbar und verursacht geringe Einzugskräfte ins Gurtmaterial.
+1. **Knoten wählen:** Der Standardknoten ist der **[doppelte Achterknoten (Achter auf Bucht, nachgelegt)](https://de.wikipedia.org/wiki/Achterknoten#Doppelter_Achtknoten)** – er ist symmetrisch, gut kontrollierbar und verursacht geringe Einzugskräfte ins Gurtmaterial.
 2. **Seil durch beide Stege:** Vom Seilende ausgehend durch die untere Öse (Beinschlaufe) und die obere Öse (Hüftband) fädeln – oder umgekehrt, je nach Gurthersteller; einige Modelle haben eine Führungspfeil-Markierung.
 3. **Nachgelegten Achterknoten formen:** Mit dem durchgefädelten Seilende den Achterknoten rückwärts nachfahren, sodass ein symmetrischer Doppelknoten entsteht.
 4. **Kontrolle des Knotens:** Alle vier Schenkel des Knotens müssen parallel liegen, keine Verschlingungen. Kontrollmarke: Das Seilende sollte mindestens **5–7 cm** über dem Knoten stehen (Sicherheitsfahne).
