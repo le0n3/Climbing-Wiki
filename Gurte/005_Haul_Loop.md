@@ -84,7 +84,7 @@ Der Haul Loop wird mechanisch stärker beansprucht als Materialschlaufen (größ
 - **Alpinklettern, Mehrseillängen, Gletscher:** Nützlich, aber nicht zwingend
 - **Big-Wall, Expeditionen, Mehrtagestechniken:** Haul Loop ist praktisch unverzichtbar
 
-Wer regelmäßig Trad und Multi-Pitch klettert, wird den Haul Loop zu schätzen lernen – spätestens wenn man am Stand das Seil irgendwo fixieren muss und alle [[004 Materialschlaufen]] bereits mit Sicherungen bestückt sind.
+Wer regelmäßig Trad und Multi-Pitch klettert, wird den Haul Loop zu schätzen lernen – spätestens wenn man am Stand das Seil irgendwo fixieren muss und alle [[Gurte/004_Materialschlaufen|004 Materialschlaufen]] bereits mit Sicherungen bestückt sind.
 
 ## Weiterführende Themen in diesem Wiki
 
