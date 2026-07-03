@@ -22,7 +22,7 @@ Typische Modelle mit Haul Loop: [Black Diamond Solution](https://www.blackdiamon
 
 ## Aufbau und Material
 
-Der Haul Loop ist robuster als eine normale [[004 Materialschlaufen|Materialschlaufe]]:
+Der Haul Loop ist robuster als eine normale [[Gurte/004_Materialschlaufen|Materialschlaufe]]:
 
 - **Breiteres Bandmaterial** (oft 25–30 mm statt 15–20 mm bei Materialschlaufen)
 - **Doppelte oder verstärkte Nähte** an der Befestigung zum Hüftband
