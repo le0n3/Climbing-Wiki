@@ -31,10 +31,10 @@ Ein moderner Hüftgurt (Typ A) besteht aus folgenden Komponenten:
 
 - **Hüftband:** Das tragende Element, das um das Becken liegt. Breite typisch 60–100 mm, gepolstert oder ungepolstert.
 - **Beinschlaufen:** Zwei Schlaufen, die die Oberschenkel umschließen. Können fest oder per Schnalle einstellbar sein.
-- **[[002 Sicherungsschlaufe]]:** Das genähte Loop-Element, das Hüftband und Beinschlaufen verbindet. Hier wird das Sicherungsgerät eingehängt.
-- **[[003 Einbindeschlaufen]]:** Die beiden Stege durch die das Seil eingebunden wird. Bestehen aus Hüftbandanteil + Beinschlaufenanteil.
-- **[[004 Materialschlaufen]]:** Starre oder halbstarre Schlaufen seitlich am Hüftband zum Einhängen von Ausrüstung.
-- **[[005 Haul Loop]]:** Bei manchen Gurten rückwärtiger Zusatzloop zum Befestigen von Rucksäcken oder Seilen.
+- **[[Gurte/002_Sicherungsschlaufe|002 Sicherungsschlaufe]]:** Das genähte Loop-Element, das Hüftband und Beinschlaufen verbindet. Hier wird das Sicherungsgerät eingehängt.
+- **[[Gurte/003_Einbindeschlaufen|003 Einbindeschlaufen]]:** Die beiden Stege durch die das Seil eingebunden wird. Bestehen aus Hüftbandanteil + Beinschlaufenanteil.
+- **[[Gurte/004_Materialschlaufen|004 Materialschlaufen]]:** Starre oder halbstarre Schlaufen seitlich am Hüftband zum Einhängen von Ausrüstung.
+- **[[Gurte/005_Haul_Loop|005 Haul Loop]]:** Bei manchen Gurten rückwärtiger Zusatzloop zum Befestigen von Rucksäcken oder Seilen.
 - **Schnallen:** Doppelrückschlaufsystem (Double-Back) oder Schnellverschluss; müssen nach dem Anlegen immer gedoppelt sein.
 
 ## Normen und Zulassung
