@@ -17,7 +17,7 @@ Die [EN 12277](https://www.european-climbing.org/en12277) unterscheidet drei gru
 | **C** | Ganzkörpergurt | Kinder, Gletscher, Notfall-/Rettungseinsatz |
 
 ### Typ A – Hüftgurt
-Der weitaus verbreitetste Gurttyp im Klettersport. Besteht aus einem Hüftband, zwei Beinschlaufen und dem [[002 Sicherungsschlaufe|Verbindungselement (Sicherungsschlaufe)]] zwischen beiden. Beim Sturz hängt der Kletterer aufrecht, die Kräfte wirken auf Becken und Oberschenkel.
+Der weitaus verbreitetste Gurttyp im Klettersport. Besteht aus einem Hüftband, zwei Beinschlaufen und dem [[Gurte/002_Sicherungsschlaufe|Verbindungselement (Sicherungsschlaufe)]] zwischen beiden. Beim Sturz hängt der Kletterer aufrecht, die Kräfte wirken auf Becken und Oberschenkel.
 
 ### Typ B – Brustgurt
 Allein nicht zugelassen für das Klettern, da im freien Hängen ein Umkippen möglich ist. Er wird mit einem Hüftgurt (Typ A) kombiniert und kommt vor allem bei Kindern, beim Gletschersteigen oder in der Bergrettung zum Einsatz.
