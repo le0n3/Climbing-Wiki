@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "bb5b452fd43afd06",
+    "type": "split",
+    "children": [
+      {
+        "id": "231859daac3e3f04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db6f7ae1101979bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Klettern/004 Klettern/004 Klettern.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "004 Klettern"
+            }
+          },
+          {
+            "id": "774a24ee2d9799e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Klettern/003 Sichern/003 Sichern.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "003 Sichern"
+            }
+          },
+          {
+            "id": "cc29136dfdb715e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Klettern/001 Grudlagen/001 Karabiener/004 Verschluss.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "004 Verschluss"
+            }
+          },
+          {
+            "id": "458c407a14ce1fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Klettern/001 Grudlagen/001 Karabiener/001 Karabiener.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "001 Karabiener"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18719a55119cae6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfc9f46d43ffdf20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f118ea87e7630c58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "67990c0be020efa6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b36800921277c1b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92f6384971d72142",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab95f4948b003e7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98c133fec32cdfa3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001 Allgemein.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 001 Allgemein"
+            }
+          },
+          {
+            "id": "de2c6819230fa480",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001 Allgemein.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 001 Allgemein"
+            }
+          },
+          {
+            "id": "46603ec4941b4381",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "747f67d435aaa762",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001 Allgemein.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 001 Allgemein"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Graph-Ansicht öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "cc29136dfdb715e3",
+  "lastOpenFiles": [
+    "Climbing-Wiki",
+    "Pasted image 20260703215153.png",
+    "Klettern/001 Grudlagen/001 Karabiener/003 Herstellung.md",
+    "Klettern/001 Grudlagen/001 Karabiener/002 Formen.md",
+    "Pasted image 20260703215058.png",
+    "Pasted image 20260703215003.png",
+    "Pasted image 20260703214924.png",
+    "Pasted image 20260703214800.png",
+    "Klettern/001 Grudlagen/001 Karabiener/001 Allgemien.md",
+    "Klettern/001 Grudlagen/001 Karabiener/005 Widerstandsfähigkeit.md",
+    "Klettern/001 Grudlagen/001 Karabiener/004 Verschluss.md",
+    "Klettern/001 Grudlagen/002 Gurte/002 Gurte.md",
+    "Klettern/001 Grudlagen/003 Seile/003 Seile.md",
+    "Klettern/001 Grudlagen/005 Verbindungen/005 Verbindungen.md",
+    "Klettern/001 Grudlagen/004 Sicherungs Geräte/004 Sicherungs Geräte.md",
+    "Klettern/001 Grudlagen/001 Karabiener/001 Karabiener.md",
+    "Klettern/001 Grudlagen/002 Gurte/001 Allgemein.md",
+    "Klettern/002 Knoten/002 Knoten.md",
+    "Klettern/004 Klettern/003 Standplatzbau.md",
+    "Klettern/004 Klettern/004 Klettern.md",
+    "Klettern/003 Sichern/005 Zusatzgeräte/005 Zusatzgeräte.md",
+    "Klettern/003 Sichern/004 Stürze/004 Stürze.md",
+    "Klettern/003 Sichern/003 Vorstieg/003 Vorstieg.md",
+    "Klettern/003 Sichern/002 Top-Rope/002 Top-Rope.md",
+    "Klettern/003 Sichern/001 Sicherungsgeräte/001 Sicherungsgeräte.md",
+    "Klettern/003 Sichern/003 Sichern.md",
+    "Klettern/002 Knoten/Verbindungsknoten/Verbindungsknoten.md",
+    "Klettern/002 Knoten/Stopperknoten (Endknoten)/Stopperknoten (Endknoten).md",
+    "Klettern/002 Knoten/Schling- und Zugknoten/Schling- und Zugknoten.md",
+    "Klettern/002 Knoten/Schlaufenknoten/Schlaufenknoten.md",
+    "Klettern/002 Knoten/Klemmknoten/Klemmknoten.md",
+    "Klettern",
+    "Klettern/004 Klettern",
+    "Sichern/Untitled",
+    "Klettern/003 Sichern/005 Zusatzgeräte",
+    "Klettern/003 Sichern/004 Stürze",
+    "Klettern/003 Sichern/001 Sicherungsgeräte",
+    "Klettern/003 Sichern/003 Vorstieg",
+    "Klettern/003 Sichern/002 Top-Rope",
+    "Klettern/003 Sichern",
+    "Klettern/002 Knoten/Klemmknoten"
+  ]
+}

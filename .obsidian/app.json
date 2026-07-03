@@ -1,0 +1,14 @@
+{
+  "promptDelete": false,
+  "livePreview": false,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "showIndentGuide": true,
+  "smartIndentList": true,
+  "vimMode": false,
+  "focusNewTab": true,
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
+}
