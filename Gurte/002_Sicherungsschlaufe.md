@@ -38,9 +38,9 @@ Die meisten Gurte namhafter Hersteller übertreffen 15 kN deutlich; Prüfwerte v
 
 ## Funktion im Sicherungssystem
 
-An der Sicherungsschlaufe wird ausschließlich das **Sicherungsgerät** (z. B. [Grigri](https://de.wikipedia.org/wiki/Grigri), [ATC](https://de.wikipedia.org/wiki/ATC), HMS-Karabiner) eingehängt – **niemals das Seil direkt**. Die korrekte Einbindung des Seils erfolgt durch die [[003 Einbindeschlaufen]].
+An der Sicherungsschlaufe wird ausschließlich das **Sicherungsgerät** (z. B. [Grigri](https://de.wikipedia.org/wiki/Grigri), [ATC](https://de.wikipedia.org/wiki/ATC), HMS-Karabiner) eingehängt – **niemals das Seil direkt**. Die korrekte Einbindung des Seils erfolgt durch die [[Gurte/003_Einbindeschlaufen|003 Einbindeschlaufen]].
 
-> ⚠️ **Sicherheitshinweis – häufiger Anfängerfehler:** Das Seil direkt in die Sicherungsschlaufe einbinden (statt durch die Einbindeschlaufen zu fädeln) ist ein gefährlicher Fehler. Die Sicherungsschlaufe ist für das Einhängen eines Karabiners optimiert; ein direkt eingeknotetes Seil kann die Schlaufe unerwünscht belasten oder einschnüren. Das Seil gehört **immer** durch beide [[003 Einbindeschlaufen]].
+> ⚠️ **Sicherheitshinweis – häufiger Anfängerfehler:** Das Seil direkt in die Sicherungsschlaufe einbinden (statt durch die Einbindeschlaufen zu fädeln) ist ein gefährlicher Fehler. Die Sicherungsschlaufe ist für das Einhängen eines Karabiners optimiert; ein direkt eingeknotetes Seil kann die Schlaufe unerwünscht belasten oder einschnüren. Das Seil gehört **immer** durch beide [[Gurte/003_Einbindeschlaufen|003 Einbindeschlaufen]].
 
 ## Interaktion mit dem Karabiner
 
