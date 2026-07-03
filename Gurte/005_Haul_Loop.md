@@ -64,9 +64,9 @@ Beim Abseilen mit Gepäck (z. B. nach Mehrseillängentouren) kann am Haul Loop e
 
 | Schlaufe | Position | Normgeprüft | Für Sicherung |
 |----------|----------|-------------|---------------|
-| [[002 Sicherungsschlaufe]] | Vorne mittig | Ja (EN 12277, ≥ 15 kN) | ✅ Ja |
-| [[003 Einbindeschlaufen]] | Vorne beidseitig | Ja (EN 12277, ≥ 10 kN) | ✅ Nur Seileinbindung |
-| [[004 Materialschlaufen]] | Seitlich/hinten | Nein | ❌ Nein |
+| [[Gurte/002_Sicherungsschlaufe|002 Sicherungsschlaufe]] | Vorne mittig | Ja (EN 12277, ≥ 15 kN) | ✅ Ja |
+| [[Gurte/003_Einbindeschlaufen|003 Einbindeschlaufen]] | Vorne beidseitig | Ja (EN 12277, ≥ 10 kN) | ✅ Nur Seileinbindung |
+| [[Gurte/004_Materialschlaufen|004 Materialschlaufen]] | Seitlich/hinten | Nein | ❌ Nein |
 | **Haul Loop** | Hinten mittig | Nein | ❌ Nein |
 
 ## Pflege und Inspektion
