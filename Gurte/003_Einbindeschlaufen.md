@@ -8,7 +8,7 @@ Als Einbindeschlaufen (auch: Einbindepunkte, engl. *tie-in points*) bezeichnet m
 
 ## Geometrie und Funktion
 
-Die Einbindeschlaufen sind bewusst **nicht** an der [[002 Sicherungsschlaufe]] befestigt. Das Seil wird durch die beiden Stege (Hüftband + Beinschlaufen-Anteil) gelegt, sodass die Last auf beide Körperzonen verteilt wird:
+Die Einbindeschlaufen sind bewusst **nicht** an der [[Gurte/002_Sicherungsschlaufe|002 Sicherungsschlaufe]] befestigt. Das Seil wird durch die beiden Stege (Hüftband + Beinschlaufen-Anteil) gelegt, sodass die Last auf beide Körperzonen verteilt wird:
 
 - Das **Hüftband** trägt den Großteil der Kraft (Becken ist der stabilste Ankerpunkt).
 - Die **Beinschlaufen** stabilisieren die Position und verhindern, dass der Kletterer bei einem Sturz kopfüber hängt.
