@@ -78,7 +78,7 @@ Eine der gefährlichsten Verwechslungen im Klettern:
 
 ## Weiterführende Themen in diesem Wiki
 
-- [[001 Allgemein]] – Gesamtaufbau des Gurts, Typen und Normen
-- [[003 Einbindeschlaufen]] – Warum das Seil durch die Einbindestege muss
-- [[004 Materialschlaufen]] – Materialschlaufen und ihre Lastgrenzen
-- [[005 Haul Loop]] – Haul Loop als rückwärtiger Zusatzloop
+- [[Gurte/001_Allgemein|001 Allgemein]] – Gesamtaufbau des Gurts, Typen und Normen
+- [[Gurte/003_Einbindeschlaufen|003 Einbindeschlaufen]] – Warum das Seil durch die Einbindestege muss
+- [[Gurte/004_Materialschlaufen|004 Materialschlaufen]] – Materialschlaufen und ihre Lastgrenzen
+- [[Gurte/005_Haul_Loop|005 Haul Loop]] – Haul Loop als rückwärtiger Zusatzloop
