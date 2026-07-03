@@ -26,13 +26,11 @@ Nach **[EN 12277](https://www.en-standard.eu/csn-en-12277-mountaineering-equipme
 
 ### Beispielrechnung: Was bedeuten 15 kN?
 
-Ein 80-kg-Kletterer erfährt bei einem Sturz mit Fangstoßfaktor 2 rechnerisch:
+Zum Größenvergleich: Die reine Gewichtskraft eines 80-kg-Kletterers beträgt ungefähr:
 
-```
-F = m × a
-  ≈ 80 kg × ~12 m/s²
-  ≈ ~960 N ≈ ~1 kN
-```
+    F = m × g
+      ≈ 80 kg × 9,81 m/s²
+      ≈ 785 N ≈ 0,8 kN
 
 Reale Messungen zeigen, dass **typische Fangstoßkräfte am Gurt 6–8 kN** nicht überschreiten (das dynamische Seil dämpft den Impuls). Die vorgeschriebenen 15 kN bieten also einen **Sicherheitsfaktor von ca. 2**, um auch extreme Szenarien (z. B. Fangstoßfaktor durch kurzes Seilstück, feste Fixpunkte) abzudecken.
 
