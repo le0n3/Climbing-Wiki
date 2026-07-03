@@ -34,7 +34,7 @@ Materialschlaufen sind für das **statische Gewicht von Ausrüstung** ausgelegt,
 | [Petzl](https://www.petzl.com/de/de/Sport/Gurte) | Kein Fangstoß-Rating; nur für Materialtransport |
 | [Edelrid](https://www.edelrid.com/de/klettern/gurte) | Nicht für Sicherungszwecke klassifiziert |
 
-> ⚠️ **Sicherheitshinweis – keine Sturzbelastung:** Materialschlaufen sind typischerweise mit nur **2–5 kN** in der statischen Zugprüfung spezifiziert, falls der Hersteller überhaupt einen Wert angibt. Im Vergleich: Die [[002 Sicherungsschlaufe]] muss ≥ 15 kN halten. Das Einhängen eines Karabiners an einer Materialschlaufe zum Sichern am Stand oder als Zwischensicherung ist ein **lebensgefährlicher Fehler**.
+> ⚠️ **Sicherheitshinweis – keine Sturzbelastung:** Materialschlaufen sind typischerweise mit nur **2–5 kN** in der statischen Zugprüfung spezifiziert, falls der Hersteller überhaupt einen Wert angibt. Im Vergleich: Die [[Gurte/002_Sicherungsschlaufe|002 Sicherungsschlaufe]] muss ≥ 15 kN halten. Das Einhängen eines Karabiners an einer Materialschlaufe zum Sichern am Stand oder als Zwischensicherung ist ein **lebensgefährlicher Fehler**.
 
 ### Warum keine EN-Sicherheitsnorm für Materialschlaufen?
 
