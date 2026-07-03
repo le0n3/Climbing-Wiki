@@ -76,7 +76,7 @@ Vor jeder Einbindung prüfen:
 
 ## Weiterführende Themen in diesem Wiki
 
-- [[001 Allgemein]] – Gesamtaufbau, Gurttypen und Normen
-- [[002 Sicherungsschlaufe]] – Die Schlaufe für das Sicherungsgerät (nicht für das Seil!)
-- [[004 Materialschlaufen]] – Schlaufen für Ausrüstung, keine Einbindung
-- [[005 Haul Loop]] – Haul Loop und seine Abgrenzung zu Einbindeschlaufen
+- [[Gurte/001_Allgemein|001 Allgemein]] – Gesamtaufbau, Gurttypen und Normen
+- [[Gurte/002_Sicherungsschlaufe|002 Sicherungsschlaufe]] – Die Schlaufe für das Sicherungsgerät (nicht für das Seil!)
+- [[Gurte/004_Materialschlaufen|004 Materialschlaufen]] – Schlaufen für Ausrüstung, keine Einbindung
+- [[Gurte/005_Haul_Loop|005 Haul Loop]] – Haul Loop und seine Abgrenzung zu Einbindeschlaufen
