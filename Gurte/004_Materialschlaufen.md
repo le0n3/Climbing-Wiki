@@ -77,7 +77,7 @@ Materialschlaufen werden oft vergessen, sind aber regelmäßig zu prüfen:
 
 ## Weiterführende Themen in diesem Wiki
 
-- [[001 Allgemein]] – Gesamtaufbau des Gurts und Normenüberblick
-- [[002 Sicherungsschlaufe]] – Das normkonforme Sicherungselement (nicht Materialschlaufe!)
-- [[003 Einbindeschlaufen]] – Korrekte Seileinbindung
-- [[005 Haul Loop]] – Rückwärtiger Loop für größere Lasten am Big-Wall
+- [[Gurte/001_Allgemein|001 Allgemein]] – Gesamtaufbau des Gurts und Normenüberblick
+- [[Gurte/002_Sicherungsschlaufe|002 Sicherungsschlaufe]] – Das normkonforme Sicherungselement (nicht Materialschlaufe!)
+- [[Gurte/003_Einbindeschlaufen|003 Einbindeschlaufen]] – Korrekte Seileinbindung
+- [[Gurte/005_Haul_Loop|005 Haul Loop]] – Rückwärtiger Loop für größere Lasten am Big-Wall
