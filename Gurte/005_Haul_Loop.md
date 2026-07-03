@@ -88,7 +88,7 @@ Wer regelmäßig Trad und Multi-Pitch klettert, wird den Haul Loop zu schätzen 
 
 ## Weiterführende Themen in diesem Wiki
 
-- [[001 Allgemein]] – Gurttypen, Aufbau und Normen im Überblick
-- [[002 Sicherungsschlaufe]] – Das einzige normgeprüfte Sicherungselement vorne am Gurt
-- [[003 Einbindeschlaufen]] – Korrekte Seilanbindung und Knoten
-- [[004 Materialschlaufen]] – Gear Loops: Tragkapazität und korrekte Nutzung
+- [[Gurte/001_Allgemein|001 Allgemein]] – Gurttypen, Aufbau und Normen im Überblick
+- [[Gurte/002_Sicherungsschlaufe|002 Sicherungsschlaufe]] – Das einzige normgeprüfte Sicherungselement vorne am Gurt
+- [[Gurte/003_Einbindeschlaufen|003 Einbindeschlaufen]] – Korrekte Seilanbindung und Knoten
+- [[Gurte/004_Materialschlaufen|004 Materialschlaufen]] – Gear Loops: Tragkapazität und korrekte Nutzung
