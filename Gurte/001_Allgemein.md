@@ -55,7 +55,7 @@ Ein falsch angelegter Gurt bietet keinen sicheren Schutz. Die wichtigsten Schrit
 1. **Richtung prüfen:** Das Hüftband muss über dem Beckenkamm sitzen – nicht auf der Taille.
 2. **Schnallen doppeln (Double-Back):** Alle Schnallen müssen zurückgefädelt (gedoppelt) sein. Ein ungedoppeltes Band kann sich unter Last öffnen.
 3. **Beinschlaufen anpassen:** Eng genug, dass man die geballte Faust nicht hindurchschieben kann; weit genug, um nicht zu einzuschnüren.
-4. **[[003 Einbindeschlaufen]] kontrollieren:** Beide Stege müssen frei von Verdrehungen sein; das Seil wird durch beide Stege (Hüft- + Beinanteil) geführt.
+4. **[[Gurte/003_Einbindeschlaufen|003 Einbindeschlaufen]] kontrollieren:** Beide Stege müssen frei von Verdrehungen sein; das Seil wird durch beide Stege (Hüft- + Beinanteil) geführt.
 
 > ⚠️ **Sicherheitshinweis:** Ein nicht gedoppeltes Schnallenband ist einer der häufigsten Fehler beim Anlegen. Die [DAV-Sicherheitsforschung](https://www.alpenverein.de/bergsport/sicherheit/sicherheitsforschung/) dokumentiert Unfälle, bei denen sich Schnallen unter Last geöffnet haben. Immer gegenseitig kontrollieren (Partnercheck).
 
